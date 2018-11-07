@@ -1,0 +1,21 @@
+{
+    "name": "magp/yii2-panel",
+    "description": "Generate the Bootstrap Panel",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manuel A. Gonzalez Prieto",
+            "email": "manuel_alejandrogp@web.de"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "magp\\bootstrappanel\\": ""
+        }
+    }
+}

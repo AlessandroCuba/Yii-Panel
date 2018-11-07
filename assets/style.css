@@ -1,0 +1,9 @@
+.panel-progress {
+    border-color: rgb(187, 143, 206);
+}
+
+.panel-progress > .panel-heading {
+    color: rgb(91, 44, 111);
+    background-color: rgb(215, 189, 226);
+    border-color: rgb(187, 143, 206);
+}
